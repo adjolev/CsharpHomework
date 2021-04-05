@@ -1,0 +1,13 @@
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\basicLottery\bin\Debug\netcoreapp3.1\basicLottery.exe
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\basicLottery\bin\Debug\netcoreapp3.1\basicLottery.deps.json
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\basicLottery\bin\Debug\netcoreapp3.1\basicLottery.runtimeconfig.json
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\basicLottery\bin\Debug\netcoreapp3.1\basicLottery.runtimeconfig.dev.json
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\basicLottery\bin\Debug\netcoreapp3.1\basicLottery.dll
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\basicLottery\bin\Debug\netcoreapp3.1\basicLottery.pdb
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\basicLottery\obj\Debug\netcoreapp3.1\basicLottery.csprojAssemblyReference.cache
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\basicLottery\obj\Debug\netcoreapp3.1\basicLottery.AssemblyInfoInputs.cache
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\basicLottery\obj\Debug\netcoreapp3.1\basicLottery.AssemblyInfo.cs
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\basicLottery\obj\Debug\netcoreapp3.1\basicLottery.csproj.CoreCompileInputs.cache
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\basicLottery\obj\Debug\netcoreapp3.1\basicLottery.dll
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\basicLottery\obj\Debug\netcoreapp3.1\basicLottery.pdb
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\basicLottery\obj\Debug\netcoreapp3.1\basicLottery.genruntimeconfig.cache

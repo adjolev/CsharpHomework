@@ -1,0 +1,13 @@
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\twoVariablesEvenOddLargeSmall\twoVariablesEvenOddLargeSmall\bin\Debug\netcoreapp3.1\twoVariablesEvenOddLargeSmall.exe
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\twoVariablesEvenOddLargeSmall\twoVariablesEvenOddLargeSmall\bin\Debug\netcoreapp3.1\twoVariablesEvenOddLargeSmall.deps.json
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\twoVariablesEvenOddLargeSmall\twoVariablesEvenOddLargeSmall\bin\Debug\netcoreapp3.1\twoVariablesEvenOddLargeSmall.runtimeconfig.json
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\twoVariablesEvenOddLargeSmall\twoVariablesEvenOddLargeSmall\bin\Debug\netcoreapp3.1\twoVariablesEvenOddLargeSmall.runtimeconfig.dev.json
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\twoVariablesEvenOddLargeSmall\twoVariablesEvenOddLargeSmall\bin\Debug\netcoreapp3.1\twoVariablesEvenOddLargeSmall.dll
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\twoVariablesEvenOddLargeSmall\twoVariablesEvenOddLargeSmall\bin\Debug\netcoreapp3.1\twoVariablesEvenOddLargeSmall.pdb
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\twoVariablesEvenOddLargeSmall\twoVariablesEvenOddLargeSmall\obj\Debug\netcoreapp3.1\twoVariablesEvenOddLargeSmall.csprojAssemblyReference.cache
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\twoVariablesEvenOddLargeSmall\twoVariablesEvenOddLargeSmall\obj\Debug\netcoreapp3.1\twoVariablesEvenOddLargeSmall.AssemblyInfoInputs.cache
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\twoVariablesEvenOddLargeSmall\twoVariablesEvenOddLargeSmall\obj\Debug\netcoreapp3.1\twoVariablesEvenOddLargeSmall.AssemblyInfo.cs
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\twoVariablesEvenOddLargeSmall\twoVariablesEvenOddLargeSmall\obj\Debug\netcoreapp3.1\twoVariablesEvenOddLargeSmall.csproj.CoreCompileInputs.cache
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\twoVariablesEvenOddLargeSmall\twoVariablesEvenOddLargeSmall\obj\Debug\netcoreapp3.1\twoVariablesEvenOddLargeSmall.dll
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\twoVariablesEvenOddLargeSmall\twoVariablesEvenOddLargeSmall\obj\Debug\netcoreapp3.1\twoVariablesEvenOddLargeSmall.pdb
+D:\Predavanja\secondSemester\C# BASIC\C#BasicHomeworks\twoVariablesEvenOddLargeSmall\twoVariablesEvenOddLargeSmall\obj\Debug\netcoreapp3.1\twoVariablesEvenOddLargeSmall.genruntimeconfig.cache

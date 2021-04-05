@@ -1,0 +1,12 @@
+/Users/adjolev/Projects/swapNumbers/bin/Debug/netcoreapp3.1/swapNumbers.deps.json
+/Users/adjolev/Projects/swapNumbers/bin/Debug/netcoreapp3.1/swapNumbers.runtimeconfig.json
+/Users/adjolev/Projects/swapNumbers/bin/Debug/netcoreapp3.1/swapNumbers.runtimeconfig.dev.json
+/Users/adjolev/Projects/swapNumbers/bin/Debug/netcoreapp3.1/swapNumbers.dll
+/Users/adjolev/Projects/swapNumbers/bin/Debug/netcoreapp3.1/swapNumbers.pdb
+/Users/adjolev/Projects/swapNumbers/obj/Debug/netcoreapp3.1/swapNumbers.csprojAssemblyReference.cache
+/Users/adjolev/Projects/swapNumbers/obj/Debug/netcoreapp3.1/swapNumbers.AssemblyInfoInputs.cache
+/Users/adjolev/Projects/swapNumbers/obj/Debug/netcoreapp3.1/swapNumbers.AssemblyInfo.cs
+/Users/adjolev/Projects/swapNumbers/obj/Debug/netcoreapp3.1/swapNumbers.csproj.CoreCompileInputs.cache
+/Users/adjolev/Projects/swapNumbers/obj/Debug/netcoreapp3.1/swapNumbers.dll
+/Users/adjolev/Projects/swapNumbers/obj/Debug/netcoreapp3.1/swapNumbers.pdb
+/Users/adjolev/Projects/swapNumbers/obj/Debug/netcoreapp3.1/swapNumbers.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/adjolev/Projects/studentGroups/bin/Debug/netcoreapp3.1/studentGroups.deps.json
+/Users/adjolev/Projects/studentGroups/bin/Debug/netcoreapp3.1/studentGroups.runtimeconfig.json
+/Users/adjolev/Projects/studentGroups/bin/Debug/netcoreapp3.1/studentGroups.runtimeconfig.dev.json
+/Users/adjolev/Projects/studentGroups/bin/Debug/netcoreapp3.1/studentGroups.dll
+/Users/adjolev/Projects/studentGroups/bin/Debug/netcoreapp3.1/studentGroups.pdb
+/Users/adjolev/Projects/studentGroups/obj/Debug/netcoreapp3.1/studentGroups.csprojAssemblyReference.cache
+/Users/adjolev/Projects/studentGroups/obj/Debug/netcoreapp3.1/studentGroups.AssemblyInfoInputs.cache
+/Users/adjolev/Projects/studentGroups/obj/Debug/netcoreapp3.1/studentGroups.AssemblyInfo.cs
+/Users/adjolev/Projects/studentGroups/obj/Debug/netcoreapp3.1/studentGroups.csproj.CoreCompileInputs.cache
+/Users/adjolev/Projects/studentGroups/obj/Debug/netcoreapp3.1/studentGroups.dll
+/Users/adjolev/Projects/studentGroups/obj/Debug/netcoreapp3.1/studentGroups.pdb
+/Users/adjolev/Projects/studentGroups/obj/Debug/netcoreapp3.1/studentGroups.genruntimeconfig.cache

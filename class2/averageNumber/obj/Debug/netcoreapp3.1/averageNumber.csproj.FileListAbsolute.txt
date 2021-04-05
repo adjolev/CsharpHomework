@@ -1,0 +1,12 @@
+/Users/adjolev/Projects/averageNumber/bin/Debug/netcoreapp3.1/averageNumber.deps.json
+/Users/adjolev/Projects/averageNumber/bin/Debug/netcoreapp3.1/averageNumber.runtimeconfig.json
+/Users/adjolev/Projects/averageNumber/bin/Debug/netcoreapp3.1/averageNumber.runtimeconfig.dev.json
+/Users/adjolev/Projects/averageNumber/bin/Debug/netcoreapp3.1/averageNumber.dll
+/Users/adjolev/Projects/averageNumber/bin/Debug/netcoreapp3.1/averageNumber.pdb
+/Users/adjolev/Projects/averageNumber/obj/Debug/netcoreapp3.1/averageNumber.csprojAssemblyReference.cache
+/Users/adjolev/Projects/averageNumber/obj/Debug/netcoreapp3.1/averageNumber.AssemblyInfoInputs.cache
+/Users/adjolev/Projects/averageNumber/obj/Debug/netcoreapp3.1/averageNumber.AssemblyInfo.cs
+/Users/adjolev/Projects/averageNumber/obj/Debug/netcoreapp3.1/averageNumber.csproj.CoreCompileInputs.cache
+/Users/adjolev/Projects/averageNumber/obj/Debug/netcoreapp3.1/averageNumber.dll
+/Users/adjolev/Projects/averageNumber/obj/Debug/netcoreapp3.1/averageNumber.pdb
+/Users/adjolev/Projects/averageNumber/obj/Debug/netcoreapp3.1/averageNumber.genruntimeconfig.cache

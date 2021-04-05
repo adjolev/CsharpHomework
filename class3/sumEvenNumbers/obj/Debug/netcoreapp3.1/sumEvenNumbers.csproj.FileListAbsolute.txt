@@ -1,0 +1,12 @@
+/Users/adjolev/Projects/C#Homework/class3/sumEvenNumbers/bin/Debug/netcoreapp3.1/sumEvenNumbers.deps.json
+/Users/adjolev/Projects/C#Homework/class3/sumEvenNumbers/bin/Debug/netcoreapp3.1/sumEvenNumbers.runtimeconfig.json
+/Users/adjolev/Projects/C#Homework/class3/sumEvenNumbers/bin/Debug/netcoreapp3.1/sumEvenNumbers.runtimeconfig.dev.json
+/Users/adjolev/Projects/C#Homework/class3/sumEvenNumbers/bin/Debug/netcoreapp3.1/sumEvenNumbers.dll
+/Users/adjolev/Projects/C#Homework/class3/sumEvenNumbers/bin/Debug/netcoreapp3.1/sumEvenNumbers.pdb
+/Users/adjolev/Projects/C#Homework/class3/sumEvenNumbers/obj/Debug/netcoreapp3.1/sumEvenNumbers.csprojAssemblyReference.cache
+/Users/adjolev/Projects/C#Homework/class3/sumEvenNumbers/obj/Debug/netcoreapp3.1/sumEvenNumbers.AssemblyInfoInputs.cache
+/Users/adjolev/Projects/C#Homework/class3/sumEvenNumbers/obj/Debug/netcoreapp3.1/sumEvenNumbers.AssemblyInfo.cs
+/Users/adjolev/Projects/C#Homework/class3/sumEvenNumbers/obj/Debug/netcoreapp3.1/sumEvenNumbers.csproj.CoreCompileInputs.cache
+/Users/adjolev/Projects/C#Homework/class3/sumEvenNumbers/obj/Debug/netcoreapp3.1/sumEvenNumbers.dll
+/Users/adjolev/Projects/C#Homework/class3/sumEvenNumbers/obj/Debug/netcoreapp3.1/sumEvenNumbers.pdb
+/Users/adjolev/Projects/C#Homework/class3/sumEvenNumbers/obj/Debug/netcoreapp3.1/sumEvenNumbers.genruntimeconfig.cache
