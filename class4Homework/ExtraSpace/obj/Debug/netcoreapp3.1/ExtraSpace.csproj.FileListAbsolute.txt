@@ -1,0 +1,12 @@
+/Users/adjolev/Documents/C#homework/class3Homework/ExtraSpace/bin/Debug/netcoreapp3.1/ExtraSpace.deps.json
+/Users/adjolev/Documents/C#homework/class3Homework/ExtraSpace/bin/Debug/netcoreapp3.1/ExtraSpace.runtimeconfig.json
+/Users/adjolev/Documents/C#homework/class3Homework/ExtraSpace/bin/Debug/netcoreapp3.1/ExtraSpace.runtimeconfig.dev.json
+/Users/adjolev/Documents/C#homework/class3Homework/ExtraSpace/bin/Debug/netcoreapp3.1/ExtraSpace.dll
+/Users/adjolev/Documents/C#homework/class3Homework/ExtraSpace/bin/Debug/netcoreapp3.1/ExtraSpace.pdb
+/Users/adjolev/Documents/C#homework/class3Homework/ExtraSpace/obj/Debug/netcoreapp3.1/ExtraSpace.csprojAssemblyReference.cache
+/Users/adjolev/Documents/C#homework/class3Homework/ExtraSpace/obj/Debug/netcoreapp3.1/ExtraSpace.AssemblyInfoInputs.cache
+/Users/adjolev/Documents/C#homework/class3Homework/ExtraSpace/obj/Debug/netcoreapp3.1/ExtraSpace.AssemblyInfo.cs
+/Users/adjolev/Documents/C#homework/class3Homework/ExtraSpace/obj/Debug/netcoreapp3.1/ExtraSpace.csproj.CoreCompileInputs.cache
+/Users/adjolev/Documents/C#homework/class3Homework/ExtraSpace/obj/Debug/netcoreapp3.1/ExtraSpace.dll
+/Users/adjolev/Documents/C#homework/class3Homework/ExtraSpace/obj/Debug/netcoreapp3.1/ExtraSpace.pdb
+/Users/adjolev/Documents/C#homework/class3Homework/ExtraSpace/obj/Debug/netcoreapp3.1/ExtraSpace.genruntimeconfig.cache

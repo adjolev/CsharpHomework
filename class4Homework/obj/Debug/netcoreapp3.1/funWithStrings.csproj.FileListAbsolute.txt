@@ -1,0 +1,12 @@
+/Users/adjolev/Documents/C#homework/class3Homework/bin/Debug/netcoreapp3.1/funWithStrings.deps.json
+/Users/adjolev/Documents/C#homework/class3Homework/bin/Debug/netcoreapp3.1/funWithStrings.runtimeconfig.json
+/Users/adjolev/Documents/C#homework/class3Homework/bin/Debug/netcoreapp3.1/funWithStrings.runtimeconfig.dev.json
+/Users/adjolev/Documents/C#homework/class3Homework/bin/Debug/netcoreapp3.1/funWithStrings.dll
+/Users/adjolev/Documents/C#homework/class3Homework/bin/Debug/netcoreapp3.1/funWithStrings.pdb
+/Users/adjolev/Documents/C#homework/class3Homework/obj/Debug/netcoreapp3.1/funWithStrings.csprojAssemblyReference.cache
+/Users/adjolev/Documents/C#homework/class3Homework/obj/Debug/netcoreapp3.1/funWithStrings.AssemblyInfoInputs.cache
+/Users/adjolev/Documents/C#homework/class3Homework/obj/Debug/netcoreapp3.1/funWithStrings.AssemblyInfo.cs
+/Users/adjolev/Documents/C#homework/class3Homework/obj/Debug/netcoreapp3.1/funWithStrings.csproj.CoreCompileInputs.cache
+/Users/adjolev/Documents/C#homework/class3Homework/obj/Debug/netcoreapp3.1/funWithStrings.dll
+/Users/adjolev/Documents/C#homework/class3Homework/obj/Debug/netcoreapp3.1/funWithStrings.pdb
+/Users/adjolev/Documents/C#homework/class3Homework/obj/Debug/netcoreapp3.1/funWithStrings.genruntimeconfig.cache
